@@ -1,0 +1,27 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$green: rgb(29, 95, 95);
+
+
+#navbar {
+    background-color: $green;
+    color: white;
+    text-align: right;
+    padding: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    
+}
+
+#footer {
+    background-color: $green;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+
+}
